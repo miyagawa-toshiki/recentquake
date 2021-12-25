@@ -26,7 +26,8 @@ country_list
 データ数：68
 ```
 
-
+![日本mag4~mag7](https://github.com/miyagawa-toshiki/recentquake/japan4-7.png)
+![日本mag4~mag7地図](https://github.com/miyagawa-toshiki/recentquake/japan4-7.png)
 
 
 
