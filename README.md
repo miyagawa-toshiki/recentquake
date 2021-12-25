@@ -27,7 +27,8 @@ country_list
 ```
 
 ![日本mag4~mag7](japan4-7.png)
-![日本mag4~mag7地図](japan4-7map.png)
+<img src="japan4-7map.png" width="400">
+
 
 
 
