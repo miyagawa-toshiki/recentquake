@@ -19,7 +19,6 @@ $pip install pandas
 $pip install seaborn
 $pip install matplotlib
 $pip install folium
-
 ```
 
 <h1>recentquakeを実行する方法</h1>
