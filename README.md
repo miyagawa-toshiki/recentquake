@@ -12,6 +12,14 @@ htmlファイル：指定したマグニチュードと国での、地震が起�
 recentquakeは公開されており、次のPyPIパッケージコマンドでインストールできます。<br>
 $pip install recentquake
 
+<h1>使用するライブラリ</h1>
+```
+$pip install pandas
+$pip install seaborn
+$pip install matplotlib
+$pip install folium
+```
+
 <h1>recentquakeを実行する方法</h1>
 recentquakeには3つのパラメータ(国、マグニチュードの最小値、マグニチュードの最大値)を設定する必要がある。<br>
 現在使用できる国名は一度実行した時にcountry_listとして得られるが、例として下に示しておく。<br>
