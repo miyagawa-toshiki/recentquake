@@ -1,4 +1,4 @@
-[![コードオーシャンで開く]](https://codeocean.com/codeocean-assets/badge/open-incode-ocean.svg)]
+[[[[![コードオーシャンで開く]](https://codeocean.com/codeocean-assets/badge/open-incode-ocean.svg)]](https://codeocean.com/capsule/3967604/tree)]
 # recentquake
 　過去３０日の地震のリアルタイムのデータからどのような特徴があるのかを示したグラフを表示する。国名とマグニチュードを指定することができる。知りたい国で知りたいマグニチュードを引数に入力すれば、指定した条件のデータ数と、その条件にあった4つのグラフが表示され、1つのhtmlファイルがブラウザで表示される。
 データ：usgs(https://earthquake.usgs.gov/earthquakes/feed/v1.0/) 世界中のリアルタイムのデータベース
